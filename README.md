@@ -9,5 +9,5 @@
   
 ● 원하는 나라의 언어의 채팅을 즉시 번역하는 서비스 제공
 
-● 기술 : Java, spring boot, jquery, lombok, websocket, lombok
+● 기술 : Java, spring boot, javascript(jquery), lombok, websocket, lombok
 
